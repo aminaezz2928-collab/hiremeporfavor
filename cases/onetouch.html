@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title data-i18n="titles.onetouch">One Touch, приложение РУДН. Кейс</title>
+<meta name="description" content="Я отвечала за сервисные разделы приложения и полный редизайн всего приложения. Самый интересный сервис это МФЦ университета. Через него студенты заказывают справки, документы и консультации и следят за заявками.">
+<meta name="theme-color" content="#f8f9fb">
+<link rel="icon" type="image/png" sizes="32x32" href="../assets/icons/favicon-32.png">
+<link rel="apple-touch-icon" href="../assets/icons/apple-touch-icon.png">
+<link rel="preload" href="../assets/fonts/cormorant-cyrillic-wght-italic.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../assets/fonts/onest-cyrillic-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../css/main.css">
+<script type="module" src="../js/main.js"></script>
+</head>
+<body id="top" class="is-case">
+<a class="skip-link" href="#main" data-i18n="ui.skip">Перейти к содержанию</a>
+<aside class="quick-links" aria-label="Быстрые ссылки" data-i18n-aria="ui.quickLabel">
+  <ul><li><a href="mailto:amzzdd@mail.ru"><svg class="icon-pixel" viewBox="0 0 32 32" shape-rendering="crispEdges" aria-hidden="true"><path d="M30.48 12.19V10.67H28.95V9.14H27.43V6.1H25.91V18.29H27.43V16.76H28.95V15.24H30.48V28.95H32V12.19H30.48Z"/><path d="M30.48 28.95H28.95V30.48H30.48V28.95Z"/><path d="M28.95 30.48H3.05V32H28.95V30.48Z"/><path d="M25.91 18.29H24.38V19.81H25.91V18.29Z"/><path d="M24.38 25.91H22.86V27.43H24.38V25.91Z"/><path d="M24.38 19.81H22.86V21.33H24.38V19.81Z"/><path d="M22.86 24.38H21.33V25.91H22.86V24.38Z"/><path d="M22.86 21.33H21.33V22.86H22.86V21.33Z"/><path d="M22.86 10.67H21.33V15.24H22.86V10.67Z"/><path d="M21.33 9.14H19.81V10.67H21.33V9.14Z"/><path d="M21.33 22.86H10.67V24.38H21.33V22.86Z"/><path d="M21.33 15.24H18.29V16.76H21.33V15.24Z"/><path d="M18.29 10.67H13.72V12.19H16.76V15.24H18.29V10.67Z"/><path d="M16.76 15.24H13.72V16.76H16.76V15.24Z"/><path d="M19.81 7.62H12.19V9.14H19.81V7.62Z"/><path d="M19.81 18.29H12.19V19.81H19.81V18.29Z"/><path d="M13.72 12.19H12.19V15.24H13.72V12.19Z"/><path d="M12.19 16.76H10.67V18.29H12.19V16.76Z"/><path d="M12.19 9.14H10.67V10.67H12.19V9.14Z"/><path d="M10.67 24.38H9.14V25.91H10.67V24.38Z"/><path d="M10.67 21.33H9.14V22.86H10.67V21.33Z"/><path d="M10.67 10.67H9.14V16.76H10.67V10.67Z"/><path d="M9.14 25.91H7.62V27.43H9.14V25.91Z"/><path d="M9.14 19.81H7.62V21.33H9.14V19.81Z"/><path d="M25.91 6.1V4.57H22.86V3.05H21.33V1.52H19.81V0H12.19V1.52H10.67V3.05H9.14V4.57H6.1V6.1H25.91Z"/><path d="M7.62 18.29H6.1V19.81H7.62V18.29Z"/><path d="M3.05 28.95H1.52V30.48H3.05V28.95Z"/><path d="M1.52 15.24H3.05V16.76H4.57V18.29H6.1V6.1H4.57V9.14H3.05V10.67H1.52V12.19H0V28.95H1.52V15.24Z"/></svg><span class="quick-tip" data-i18n="ui.tips.email">Написать на почту</span></a></li><li><a href="https://t.me/yaazzdd" target="_blank" rel="noopener"><svg class="icon-pixel" viewBox="0 0 32 32" shape-rendering="crispEdges" aria-hidden="true"><path d="M22.1 15.24V16.76H19.05V18.29H9.91V19.81H14.48V21.33H16V22.86H17.53V24.38H23.62V25.9H25.15V27.43H26.67V28.95H28.19V22.86H29.72V21.33H31.24V15.24H29.72V13.71H28.19V12.19H25.15V7.62H23.62V15.24H22.1Z"/><path d="M23.62 6.09H22.1V7.62H23.62V6.09Z"/><path d="M20.57 10.67H17.53V13.71H20.57V10.67Z"/><path d="M22.1 4.57H19.05V6.09H22.1V4.57Z"/><path d="M14.48 10.67H11.43V13.71H14.48V10.67Z"/><path d="M9.91 19.81H8.38V21.33H9.91V19.81Z"/><path d="M19.05 3.05H6.86V4.57H19.05V3.05Z"/><path d="M6.86 18.29H5.34V24.38H6.86V22.86H8.38V21.33H6.86V18.29Z"/><path d="M8.38 10.67H5.34V13.71H8.38V10.67Z"/><path d="M6.86 4.57H3.81V6.09H6.86V4.57Z"/><path d="M5.34 16.76H3.81V18.29H5.34V16.76Z"/><path d="M3.81 15.24H2.29V16.76H3.81V15.24Z"/><path d="M3.81 6.09H2.29V7.62H3.81V6.09Z"/><path d="M2.29 7.62H0.76V15.24H2.29V7.62Z"/></svg><span class="quick-tip" data-i18n="ui.tips.telegram">Написать в Telegram</span></a></li><li><a href="https://www.linkedin.com/in/aminauxui" target="_blank" rel="noopener"><svg class="icon-pixel" viewBox="0 0 32 32" shape-rendering="crispEdges" aria-hidden="true"><path d="M32 3.05H30.47V28.95H32V3.05Z"/><path d="M30.47 28.95H28.95V30.48H30.47V28.95Z"/><path d="M30.47 1.52H28.95V3.05H30.47V1.52Z"/><path d="M28.95 4.57H27.42V27.43H28.95V4.57Z"/><path d="M28.95 30.48H3.04V32H28.95V30.48Z"/><path d="M27.42 27.43H4.57V28.95H27.42V27.43Z"/><path d="M22.85 15.24H21.33V13.71H18.28V15.24H16.76V13.71H13.71V22.86H16.76V18.29H18.28V16.76H19.81V18.29H21.33V22.86H24.38V16.76H22.85V15.24Z"/><path d="M10.66 13.71H7.61V22.86H10.66V13.71Z"/><path d="M10.66 9.14H7.61V12.19H10.66V9.14Z"/><path d="M27.42 3.05H4.57V4.57H27.42V3.05Z"/><path d="M28.95 0H3.04V1.52H28.95V0Z"/><path d="M4.57 4.57H3.04V27.43H4.57V4.57Z"/><path d="M3.04 28.95H1.52V30.48H3.04V28.95Z"/><path d="M3.04 1.52H1.52V3.05H3.04V1.52Z"/><path d="M1.52 3.05H0V28.95H1.52V3.05Z"/></svg><span class="quick-tip" data-i18n="ui.tips.linkedin">Открыть LinkedIn</span></a></li></ul>
+</aside>
+<div class="page">
+<header class="site-header">
+  <div class="nav-pill">
+    <a class="brand" href="../index.html"><img src="../assets/images/bunny-nav.webp" alt="Портфолио" data-i18n-alt="ui.navBrand" width="111" height="160" decoding="async"></a>
+    <nav aria-label="Основная навигация" data-i18n-aria="ui.navLabel">
+      <ul><li><a href="../index.html#works" data-i18n="ui.nav.works">Работы</a></li><li><a href="../index.html#about" data-i18n="ui.nav.about">Обо мне</a></li><li><a href="#contacts" data-i18n="ui.nav.contacts">Контакты</a></li></ul>
+    </nav>
+  </div>
+  
+  <div class="header-actions">
+    <div class="lang" role="group" aria-label="Язык сайта" data-i18n-aria="ui.langLabel">
+      <button type="button" data-lang="ru" aria-pressed="true">RU</button>
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+    </div>
+    <a class="header-cta" href="https://t.me/yaazzdd" target="_blank" rel="noopener"><span class="header-cta-label" data-i18n="ui.cta">Связаться</span><span class="header-cta-arrow"><span class="arrow-roll arrow-roll--ne" data-arrow="↗" aria-hidden="true"></span></span></a>
+  </div>
+</header>
+<p class="lang-notice" data-i18n="ui.translationPending" lang="en" hidden>English version: translation pending</p>
+<main id="main" tabindex="-1">
+<a class="case-close" href="../index.html#works" data-transition aria-label="Закрыть и вернуться к работам" data-i18n-aria="ui.closeCase"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></a>
+<article class="case">
+  <header class="case-header">
+    <p class="eyebrow" data-i18n="cases.onetouch.eyebrow">One Touch, приложение РУДН</p>
+    <h1 data-i18n="cases.onetouch.title">Студентам от студента. Как я работала над новым приложением для РУДН</h1>
+    <p class="case-lead" data-i18n="cases.onetouch.lead">Я отвечала за сервисные разделы приложения и полный редизайн всего приложения. Самый интересный сервис это МФЦ университета. Через него студенты заказывают справки, документы и консультации и следят за заявками.</p>
+    <ul class="tags" aria-label="Теги" data-i18n-aria="ui.tagsLabel"><li data-i18n="cases.onetouch.tags.0">Information Architecture</li><li data-i18n="cases.onetouch.tags.1">Design System</li><li data-i18n="cases.onetouch.tags.2">Figma Variables</li><li data-i18n="cases.onetouch.tags.3">Light/Dark</li><li data-i18n="cases.onetouch.tags.4">Локализация</li><li data-i18n="cases.onetouch.tags.5">Usability</li></ul>
+    <dl class="meta" aria-label="Детали проекта" data-i18n-aria="ui.metaLabel"><div><dt data-i18n="cases.onetouch.meta.0.label">Роль</dt><dd data-i18n="cases.onetouch.meta.0.value">UI/UX дизайнер</dd></div><div><dt data-i18n="cases.onetouch.meta.1.label">Период</dt><dd data-i18n="cases.onetouch.meta.1.value">январь 2023 → февраль 2025</dd></div><div><dt data-i18n="cases.onetouch.meta.2.label">Платформа</dt><dd data-i18n="cases.onetouch.meta.2.value">iOS, Android</dd></div><div><dt data-i18n="cases.onetouch.meta.3.label">Компания</dt><dd data-i18n="cases.onetouch.meta.3.value">One Touch</dd></div><div class="meta-wide"><dt data-i18n="cases.onetouch.meta.4.label">Продукт</dt><dd data-i18n="cases.onetouch.meta.4.value">мобильное приложение РУДН для студентов и абитуриентов</dd></div><div class="meta-wide"><dt data-i18n="cases.onetouch.meta.5.label">Моя зона</dt><dd data-i18n="cases.onetouch.meta.5.value">сервисные разделы приложения, включая МФЦ</dd></div><div class="meta-wide"><dt data-i18n="cases.onetouch.meta.6.label">Команда</dt><dd data-i18n="cases.onetouch.meta.6.value">PM, 2 UI/UX дизайнера, разработчик</dd></div><div><dt data-i18n="cases.onetouch.meta.7.label">Статус</dt><dd data-i18n="cases.onetouch.meta.7.value">запущено</dd></div></dl>
+    <ul class="numbers"><li><span class="number-value" data-i18n="cases.onetouch.stats.0.value">40%</span><span class="number-label" data-i18n="cases.onetouch.stats.0.label">быстрее передача макетов в разработку</span></li><li><span class="number-value" data-i18n="cases.onetouch.stats.1.value">10+</span><span class="number-label" data-i18n="cases.onetouch.stats.1.label">раундов юзабилити</span></li><li><span class="number-value number-value--text" data-i18n="cases.onetouch.stats.2.value">2 темы</span><span class="number-label" data-i18n="cases.onetouch.stats.2.label">светлая и тёмная</span></li><li><span class="number-value number-value--text" data-i18n="cases.onetouch.stats.3.value">в 2 раза</span><span class="number-label" data-i18n="cases.onetouch.stats.3.label">Time-to-Task</span></li></ul>
+  </header>
+  <div class="case-layout">
+    <nav class="case-nav" aria-label="Разделы кейса" data-i18n-aria="ui.caseNavLabel">
+      <ul><li><a href="#overview" data-i18n="cases.onetouch.sections.0.title">Overview</a></li><li><a href="#research" data-i18n="cases.onetouch.sections.1.title">Research</a></li><li><a href="#solution" data-i18n="cases.onetouch.sections.2.title">Solution</a></li><li><a href="#impact" data-i18n="cases.onetouch.sections.3.title">Impact</a></li></ul>
+    </nav>
+    <div class="case-body">
+      <section id="overview" class="case-section">
+        <h2><span class="section-num">01</span> <span data-i18n="cases.onetouch.sections.0.title">Overview</span></h2>
+        <p data-i18n="cases.onetouch.sections.0.blocks.0.text">РУДН входит в число крупнейших международных вузов России. Приложение РУДН нужно студентам и абитуриентам: расписание, пропуск, услуги, документы.</p>
+<h3 data-i18n="cases.onetouch.sections.0.blocks.1.text">С какими задачами работала</h3>
+<ol><li data-i18n="cases.onetouch.sections.0.blocks.2.items.0">Информационная архитектура раздела МФЦ</li><li data-i18n="cases.onetouch.sections.0.blocks.2.items.1">Отслеживание статусов заявок</li><li data-i18n="cases.onetouch.sections.0.blocks.2.items.2">Карточки заявок и страница заявки</li><li data-i18n="cases.onetouch.sections.0.blocks.2.items.3">Дизайн-система на переменных Figma</li><li data-i18n="cases.onetouch.sections.0.blocks.2.items.4">Светлая и тёмная темы</li><li data-i18n="cases.onetouch.sections.0.blocks.2.items.5">Подготовка интерфейса к локализации</li><li data-i18n="cases.onetouch.sections.0.blocks.2.items.6">Спецификации и передача макетов в разработку</li><li data-i18n="cases.onetouch.sections.0.blocks.2.items.7">Wireframes, интерактивные прототипы и финальные UI-макеты</li></ol>
+<h3 data-i18n="cases.onetouch.sections.0.blocks.3.text">Что считали успехом</h3>
+<ul><li data-i18n="cases.onetouch.sections.0.blocks.4.items.0">Основная метрика: Time-to-Task, время, за которое студент оформляет услугу.</li><li data-i18n="cases.onetouch.sections.0.blocks.4.items.1">Вспомогательная: скорость передачи макетов в разработку.</li></ul>
+<h3 data-i18n="cases.onetouch.sections.0.blocks.5.text">Моя зона</h3>
+<ul><li data-i18n="cases.onetouch.sections.0.blocks.6.items.0">Сама вела: структуру раздела, статусы, карточки, дизайн-систему, спецификации.</li><li data-i18n="cases.onetouch.sections.0.blocks.6.items.1">С командой: цели ставил PM, макеты передавала разработчикам.</li></ul>
+      </section>
+<section id="research" class="case-section">
+        <h2><span class="section-num">02</span> <span data-i18n="cases.onetouch.sections.1.title">Research</span></h2>
+        <p data-i18n="cases.onetouch.sections.1.blocks.0.text"><strong>Задача формулировалась так:</strong> сделать раздел услуг понятным, чтобы студент быстро находил услугу, видел свои заявки, статус и этапы обработки и доходил до готового документа.</p>
+<h3 data-i18n="cases.onetouch.sections.1.blocks.1.text">Что я сделала</h3>
+<ul><li data-i18n="cases.onetouch.sections.1.blocks.2.items.0">Провела CustDev интервью со студентами</li><li data-i18n="cases.onetouch.sections.1.blocks.2.items.1">Провела опросы студентов (User Surveys)</li><li data-i18n="cases.onetouch.sections.1.blocks.2.items.2">По итогам переработала ключевые сценарии раздела МФЦ</li></ul>
+<h3 data-i18n="cases.onetouch.sections.1.blocks.3.text">Что нашли</h3>
+<ol><li data-i18n="cases.onetouch.sections.1.blocks.4.items.0">Категории услуг шли длинным однообразным списком.</li><li data-i18n="cases.onetouch.sections.1.blocks.4.items.1">Заявки выглядели как строки текста, статус не считывался с первого взгляда.</li><li data-i18n="cases.onetouch.sections.1.blocks.4.items.2">Страница заявки напоминала технический формуляр с лишними данными.</li><li data-i18n="cases.onetouch.sections.1.blocks.4.items.3">Студент не видел этапы получения услуги и шёл уточнять лично.</li></ol>
+      </section>
+<section id="solution" class="case-section">
+        <h2><span class="section-num">03</span> <span data-i18n="cases.onetouch.sections.2.title">Solution</span></h2>
+        <h3 data-i18n="cases.onetouch.sections.2.blocks.0.text">Решение 1. Структура, в которой видно главное</h3>
+<p data-i18n="cases.onetouch.sections.2.blocks.1.text"><strong>Цель.</strong> Сократить время, за которое студент находит услугу и оформляет заявку.</p>
+<p data-i18n="cases.onetouch.sections.2.blocks.2.text"><strong>Что сделала.</strong> Сначала разобрала задачи студента: найти услугу, подать заявку, увидеть статус, забрать документ. Потом переработала информационную архитектуру раздела: МФЦ, «Мои обращения», «Готовые документы», категории услуг, страница заявки, этапы обработки.</p>
+<aside class="result">
+  <p class="result-value" data-i18n="cases.onetouch.sections.2.blocks.3.value">×2</p>
+  <div class="result-body"><p class="result-label" data-i18n="ui.result">Результат</p><p data-i18n="cases.onetouch.sections.2.blocks.3.text">Время оформления услуг (Time-to-Task) сократилось в 2 раза.</p></div>
+</aside>
+<h3 data-i18n="cases.onetouch.sections.2.blocks.4.text">Решение 2. Статусы и этапы вместо строк текста</h3>
+<p data-i18n="cases.onetouch.sections.2.blocks.5.text"><strong>Цель.</strong> Чтобы студент видел состояние заявки с одного взгляда и не ходил уточнять лично.</p>
+<p data-i18n="cases.onetouch.sections.2.blocks.6.text"><strong>Что сделала.</strong> Внедрила систему отслеживания статусов: новая, взята в работу, готова к выдаче, выполнена. В списке статус показан бейджем, на странице заявки таймлайном этапов. Убрала с неё лишние технические поля.</p>
+<p data-i18n="cases.onetouch.sections.2.blocks.7.text"><strong>Экраны.</strong> МФЦ, «Готовые документы», «Мои обращения», страница заявки со статусами.</p>
+<div class="carousel media-panel" data-carousel>
+  <div class="carousel-track" tabindex="0" role="region" aria-label="Экраны" data-i18n-aria="ui.screensLabel"><figure class="slide"><button type="button" class="slide-zoom" data-zoom aria-label="Открыть крупно" data-i18n-aria="ui.zoom"><img src="../assets/images/onetouch/process-1-mfc.webp" alt="Экран МФЦ с категориями услуг" data-i18n-alt="cases.onetouch.sections.2.blocks.8.items.0.alt" width="900" height="1844" decoding="async" loading="lazy"><span class="slide-zoom-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5M11 8v6M8 11h6"/></svg></span></button><figcaption><span class="slide-num">01</span> <span data-i18n="cases.onetouch.sections.2.blocks.8.items.0.caption">МФЦ</span></figcaption></figure><figure class="slide"><button type="button" class="slide-zoom" data-zoom aria-label="Открыть крупно" data-i18n-aria="ui.zoom"><img src="../assets/images/onetouch/process-2-documents.webp" alt="Экран Готовые документы" data-i18n-alt="cases.onetouch.sections.2.blocks.8.items.1.alt" width="900" height="1844" decoding="async" loading="lazy"><span class="slide-zoom-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5M11 8v6M8 11h6"/></svg></span></button><figcaption><span class="slide-num">02</span> <span data-i18n="cases.onetouch.sections.2.blocks.8.items.1.caption">Готовые документы</span></figcaption></figure><figure class="slide"><button type="button" class="slide-zoom" data-zoom aria-label="Открыть крупно" data-i18n-aria="ui.zoom"><img src="../assets/images/onetouch/process-3-requests.webp" alt="Экран Мои обращения со статусами заявок" data-i18n-alt="cases.onetouch.sections.2.blocks.8.items.2.alt" width="900" height="1844" decoding="async" loading="lazy"><span class="slide-zoom-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5M11 8v6M8 11h6"/></svg></span></button><figcaption><span class="slide-num">03</span> <span data-i18n="cases.onetouch.sections.2.blocks.8.items.2.caption">Мои обращения</span></figcaption></figure><figure class="slide"><button type="button" class="slide-zoom" data-zoom aria-label="Открыть крупно" data-i18n-aria="ui.zoom"><img src="../assets/images/onetouch/process-4-detail.webp" alt="Страница заявки с таймлайном этапов" data-i18n-alt="cases.onetouch.sections.2.blocks.8.items.3.alt" width="900" height="1844" decoding="async" loading="lazy"><span class="slide-zoom-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5M11 8v6M8 11h6"/></svg></span></button><figcaption><span class="slide-num">04</span> <span data-i18n="cases.onetouch.sections.2.blocks.8.items.3.caption">Страница заявки</span></figcaption></figure></div>
+  <div class="carousel-controls">
+    <button type="button" class="carousel-btn" data-dir="-1" aria-label="Предыдущий экран" data-i18n-aria="ui.prev"><span aria-hidden="true">‹</span></button>
+    <span class="carousel-counter" aria-live="polite">1 / 4</span>
+    <button type="button" class="carousel-btn" data-dir="1" aria-label="Следующий экран" data-i18n-aria="ui.next"><span aria-hidden="true">›</span></button>
+  </div>
+</div>
+<aside class="result">
+  <p class="result-value" data-i18n="cases.onetouch.sections.2.blocks.9.value">✓</p>
+  <div class="result-body"><p class="result-label" data-i18n="ui.result">Результат</p><p data-i18n="cases.onetouch.sections.2.blocks.9.text">Статус заявки читается без вопросов к сотруднику.</p></div>
+</aside>
+<h3 data-i18n="cases.onetouch.sections.2.blocks.10.text">Решение 3. Дизайн-система на переменных Figma</h3>
+<p data-i18n="cases.onetouch.sections.2.blocks.11.text"><strong>Цель.</strong> Ускорить передачу макетов в разработку и сделать интерфейс единым.</p>
+<p data-i18n="cases.onetouch.sections.2.blocks.12.text"><strong>Что сделала.</strong> Перестроила дизайн-систему на переменных Figma. Двухуровневая структура токенов с семантическими связями. Расширила компоненты и стили и оформила спецификации для разработчиков.</p>
+<aside class="result">
+  <p class="result-value" data-i18n="cases.onetouch.sections.2.blocks.13.value">40%</p>
+  <div class="result-body"><p class="result-label" data-i18n="ui.result">Результат</p><p data-i18n="cases.onetouch.sections.2.blocks.13.text">Передача макетов в разработку стала быстрее на 40%.</p></div>
+</aside>
+<h3 data-i18n="cases.onetouch.sections.2.blocks.14.text">Решение 4. Светлая и тёмная темы</h3>
+<p data-i18n="cases.onetouch.sections.2.blocks.15.text"><strong>Цель.</strong> Дать студентам выбор темы без двойной работы для команды.</p>
+<p data-i18n="cases.onetouch.sections.2.blocks.16.text"><strong>Что сделала.</strong> Через семантические токены светлая и тёмная темы переключаются без отдельных макетов под каждую.</p>
+<p data-i18n="cases.onetouch.sections.2.blocks.17.text"><strong>Экраны.</strong> Вход, «Календарь», «Пропуск» в тёмной теме.</p>
+<div class="carousel media-panel" data-carousel>
+  <div class="carousel-track" tabindex="0" role="region" aria-label="Экраны" data-i18n-aria="ui.screensLabel"><figure class="slide"><button type="button" class="slide-zoom" data-zoom aria-label="Открыть крупно" data-i18n-aria="ui.zoom"><img src="../assets/images/onetouch/theme-61-login.webp" alt="Экран входа в тёмной теме" data-i18n-alt="cases.onetouch.sections.2.blocks.18.items.0.alt" width="378" height="772" decoding="async" loading="lazy"><span class="slide-zoom-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5M11 8v6M8 11h6"/></svg></span></button><figcaption><span class="slide-num">01</span> <span data-i18n="cases.onetouch.sections.2.blocks.18.items.0.caption">Вход</span></figcaption></figure><figure class="slide"><button type="button" class="slide-zoom" data-zoom aria-label="Открыть крупно" data-i18n-aria="ui.zoom"><img src="../assets/images/onetouch/theme-66-calendar.webp" alt="Экран Календарь в тёмной теме" data-i18n-alt="cases.onetouch.sections.2.blocks.18.items.1.alt" width="378" height="772" decoding="async" loading="lazy"><span class="slide-zoom-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5M11 8v6M8 11h6"/></svg></span></button><figcaption><span class="slide-num">02</span> <span data-i18n="cases.onetouch.sections.2.blocks.18.items.1.caption">Календарь</span></figcaption></figure><figure class="slide"><button type="button" class="slide-zoom" data-zoom aria-label="Открыть крупно" data-i18n-aria="ui.zoom"><img src="../assets/images/onetouch/theme-65-pass.webp" alt="Экран Пропуск в тёмной теме" data-i18n-alt="cases.onetouch.sections.2.blocks.18.items.2.alt" width="378" height="772" decoding="async" loading="lazy"><span class="slide-zoom-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5M11 8v6M8 11h6"/></svg></span></button><figcaption><span class="slide-num">03</span> <span data-i18n="cases.onetouch.sections.2.blocks.18.items.2.caption">Пропуск</span></figcaption></figure></div>
+  <div class="carousel-controls">
+    <button type="button" class="carousel-btn" data-dir="-1" aria-label="Предыдущий экран" data-i18n-aria="ui.prev"><span aria-hidden="true">‹</span></button>
+    <span class="carousel-counter" aria-live="polite">1 / 3</span>
+    <button type="button" class="carousel-btn" data-dir="1" aria-label="Следующий экран" data-i18n-aria="ui.next"><span aria-hidden="true">›</span></button>
+  </div>
+</div>
+<h3 data-i18n="cases.onetouch.sections.2.blocks.19.text">Решение 5. Готовность к локализации</h3>
+<p data-i18n="cases.onetouch.sections.2.blocks.20.text"><strong>Цель.</strong> Чтобы приложением могли пользоваться иностранные студенты.</p>
+<p data-i18n="cases.onetouch.sections.2.blocks.21.text"><strong>Что сделала.</strong> Подготовила интерфейс к локализации: запас под длинные строки, отдельные текстовые токены, макеты на других языках.</p>
+      </section>
+<section id="impact" class="case-section case-section--impact" data-cloud-frame>
+        <h2><span class="section-num">04</span> <span data-i18n="cases.onetouch.sections.3.title">Impact</span></h2>
+        <ul class="numbers numbers--dark"><li><span class="number-value number-value--text" data-i18n="cases.onetouch.sections.3.blocks.0.items.0.value">быстрее на 40%</span><span class="number-label" data-i18n="cases.onetouch.sections.3.blocks.0.items.0.label">передача макетов в разработку. Дизайн-система и спецификации</span></li><li><span class="number-value number-value--text" data-i18n="cases.onetouch.sections.3.blocks.0.items.1.value">Time-to-Task сократился в 2 раза</span><span class="number-label" data-i18n="cases.onetouch.sections.3.blocks.0.items.1.label">Новая архитектура раздела и статусы</span></li><li><span class="number-value" data-i18n="cases.onetouch.sections.3.blocks.0.items.2.value">10+</span><span class="number-label" data-i18n="cases.onetouch.sections.3.blocks.0.items.2.label">раундов юзабилити-тестирования</span></li><li><span class="number-value number-value--text" data-i18n="cases.onetouch.sections.3.blocks.0.items.3.value">2 темы</span><span class="number-label" data-i18n="cases.onetouch.sections.3.blocks.0.items.3.label">светлая и тёмная на одних токенах</span></li><li><span class="number-value number-value--text" data-i18n="cases.onetouch.sections.3.blocks.0.items.4.value">локализация</span><span class="number-label" data-i18n="cases.onetouch.sections.3.blocks.0.items.4.label">интерфейс готов для иностранных студентов</span></li></ul>
+      </section>
+    </div>
+  </div>
+  <nav class="next-case" aria-label="Следующий кейс" data-i18n-aria="ui.nextCase" data-cloud-frame>
+    <p class="eyebrow" data-i18n="cases.onetouch.next.label">Следующий кейс</p>
+    <p class="next-title" data-i18n="cases.onetouch.next.title">Almasu Exchange</p>
+    <a class="button" href="../works/almasu.html" data-transition><span data-i18n="cases.onetouch.next.cta">Смотреть</span> <span class="arrow-roll arrow-roll--e" data-arrow="→" aria-hidden="true"></span></a>
+  </nav>
+</article>
+<dialog class="lightbox" aria-label="Открыть крупно" data-i18n-aria="ui.zoom">
+  <div class="lightbox-stage"></div>
+  <p class="lightbox-caption"></p>
+  <button type="button" class="lightbox-close" aria-label="Закрыть" data-i18n-aria="ui.close"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  <div class="lightbox-bar">
+    <button type="button" class="lightbox-zoom" data-step="-1" aria-label="Уменьшить" data-i18n-aria="ui.zoomOut"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 12h12"/></svg></button>
+    <input type="range" class="lightbox-range" min="100" max="300" step="5" value="100" aria-label="Масштаб" data-i18n-aria="ui.zoomLevel">
+    <button type="button" class="lightbox-zoom" data-step="1" aria-label="Увеличить" data-i18n-aria="ui.zoomIn"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 12h12M12 6v12"/></svg></button>
+    <output class="lightbox-value">100%</output>
+  </div>
+</dialog>
+</main>
+<footer class="site-footer">
+  <nav class="footer-columns" aria-label="Навигация в футере" data-i18n-aria="ui.footerLabel">
+    <div>
+      <h2 data-i18n="ui.footer.works">Работы</h2>
+      <ul><li><a href="../cases/grab.html" data-i18n="ui.footer.grab">Grab</a></li><li><a href="../cases/onetouch.html" data-i18n="ui.footer.onetouch">One Touch</a></li><li><a href="../works/almasu.html" data-i18n="ui.footer.almasu">Almasu Exchange</a></li></ul>
+    </div>
+    <div>
+      <h2 data-i18n="ui.footer.concepts">Концепты</h2>
+      <ul><li><a href="../works/concept-tutor.html" data-i18n="ui.footer.tutor">Личный кабинет репетитора</a></li><li><a href="../works/concept-landing.html" data-i18n="ui.footer.landing">Доработка лендинга</a></li><li><a href="../works/concept-scada.html" data-i18n="ui.footer.scada">Интерфейс SCADA-системы</a></li></ul>
+    </div>
+    <div>
+      <h2 data-i18n="ui.footer.about">Обо мне</h2>
+      <ul><li><a href="../index.html#education" data-i18n="ui.footer.education">Образование</a></li><li><a href="../index.html#stack" data-i18n="ui.footer.stack">Рабочий стек</a></li></ul>
+    </div>
+    <div id="contacts">
+      <h2 data-i18n="ui.footer.contacts">Контакты</h2>
+      <ul><li><a href="mailto:amzzdd@mail.ru" data-i18n="ui.links.email">Почта</a><button type="button" class="copy-btn" data-copy="amzzdd@mail.ru" aria-label="Скопировать" data-i18n-aria="ui.copy" data-copied="Скопировано"><span class="copy-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="8.5" y="8.5" width="11" height="11" rx="2.5"/><path d="M15.5 8.5V6a2.5 2.5 0 0 0-2.5-2.5H6A2.5 2.5 0 0 0 3.5 6v7A2.5 2.5 0 0 0 6 15.5h2.5"/></svg></span><span class="copy-done"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg></span></button></li><li><a href="https://t.me/yaazzdd" target="_blank" rel="noopener" data-i18n="ui.links.telegram">Telegram</a></li><li><a href="https://www.linkedin.com/in/aminauxui" target="_blank" rel="noopener" data-i18n="ui.links.linkedin">LinkedIn</a></li></ul>
+    </div>
+  </nav>
+  <p class="copyright" data-i18n="ui.copyright">© 2026 Амина</p>
+</footer>
+</div>
+<a class="to-top" href="#top" aria-label="Наверх" data-i18n-aria="ui.toTop"><span class="arrow-roll arrow-roll--up" data-arrow="↑" aria-hidden="true"></span></a>
+</body>
+</html>

@@ -1,0 +1,2380 @@
+{
+  "_meta": {
+    "lang": "en",
+    "status": "translation pending"
+  },
+  "ui": {
+    "brand": "",
+    "navBrand": "",
+    "cta": "",
+    "skip": "",
+    "navLabel": "",
+    "langLabel": "",
+    "theme": "",
+    "quickLabel": "",
+    "caseNavLabel": "",
+    "footerLabel": "",
+    "toTop": "",
+    "view": "",
+    "close": "",
+    "translationPending": "",
+    "metaLabel": "",
+    "moreWorksLabel": "",
+    "tagsLabel": "",
+    "nav": {
+      "works": "",
+      "about": "",
+      "contacts": ""
+    },
+    "links": {
+      "email": "",
+      "telegram": "",
+      "linkedin": ""
+    },
+    "copyright": "",
+    "footer": {
+      "works": "",
+      "concepts": "",
+      "about": "",
+      "contacts": "",
+      "education": "",
+      "stack": "",
+      "grab": "",
+      "onetouch": "",
+      "almasu": "",
+      "yiayia": "",
+      "tutor": "",
+      "landing": "",
+      "scada": ""
+    },
+    "closeCase": "",
+    "prev": "",
+    "next": "",
+    "zoom": "",
+    "screensLabel": "",
+    "nextCase": "",
+    "open": "",
+    "tips": {
+      "email": "",
+      "telegram": "",
+      "linkedin": ""
+    },
+    "copy": "",
+    "copied": "",
+    "write": "",
+    "result": "",
+    "zoomIn": "",
+    "zoomOut": "",
+    "zoomLevel": ""
+  },
+  "titles": {
+    "home": "",
+    "grab": "",
+    "onetouch": "",
+    "almasu": "",
+    "yiayia": "",
+    "tutor": "",
+    "landing": "",
+    "scada": ""
+  },
+  "descriptions": {
+    "home": "",
+    "grab": "",
+    "onetouch": "",
+    "almasu": "",
+    "yiayia": "",
+    "tutor": "",
+    "landing": "",
+    "scada": ""
+  },
+  "home": {
+    "hero": {
+      "titleStart": "",
+      "titleEnd": "",
+      "subtitle": "",
+      "badge": "",
+      "link": ""
+    },
+    "works": {
+      "title": "",
+      "featured": [
+        {
+          "href": "cases/grab.html",
+          "src": "assets/images/grab/cover-discovery.webp",
+          "alt": "",
+          "title": "",
+          "desc": "",
+          "stats": [
+            "",
+            ""
+          ],
+          "tags": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "fit": "cover"
+        },
+        {
+          "href": "cases/onetouch.html",
+          "src": "assets/images/onetouch-card-mfc.webp",
+          "alt": "",
+          "title": "",
+          "desc": "",
+          "stats": [
+            "",
+            ""
+          ],
+          "tags": [
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "more": [
+        {
+          "href": "works/almasu.html",
+          "src": "assets/video/almasu/hero.webp",
+          "alt": "",
+          "title": "",
+          "desc": ""
+        }
+      ],
+      "conceptsTitle": "",
+      "concepts": [
+        {
+          "href": "works/concept-tutor.html",
+          "src": "assets/images/concepts/tutor/v2-desktop-wide.webp",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "href": "works/concept-landing.html",
+          "src": "assets/images/concepts/landing-it-studio.webp",
+          "alt": "",
+          "title": ""
+        },
+        {
+          "href": "works/concept-scada.html",
+          "src": "assets/images/concepts/scada/flow-2-tree.webp",
+          "alt": "",
+          "title": ""
+        }
+      ]
+    },
+    "about": {
+      "title": "",
+      "intro": "",
+      "educationTitle": "",
+      "education": [
+        "",
+        "",
+        ""
+      ],
+      "educationWords": [
+        "Linguistics",
+        "Digital",
+        "UI/UX"
+      ],
+      "stackWords": [
+        "Design",
+        "Research",
+        "Systems",
+        "Code",
+        "AI",
+        "Languages"
+      ],
+      "stackTitle": "",
+      "stack": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "howButton": "",
+      "how": {
+        "title": "",
+        "eyebrow": "",
+        "heading": "",
+        "lead": "",
+        "loop": "фидбек → улучшение → проверка",
+        "steps": [
+          {
+            "title": "",
+            "text": ""
+          },
+          {
+            "title": "",
+            "text": ""
+          },
+          {
+            "title": "",
+            "text": ""
+          },
+          {
+            "title": "",
+            "text": ""
+          },
+          {
+            "title": "",
+            "text": ""
+          }
+        ],
+        "methods": {
+          "title": "",
+          "lead": "",
+          "groups": [
+            {
+              "title": "",
+              "hint": "",
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "",
+              "hint": "",
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "title": "",
+              "hint": "",
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        }
+      },
+      "smallTalk": {
+        "title": "",
+        "items": [
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": ""
+          },
+          {
+            "q": "",
+            "a": "",
+            "contacts": [
+              {
+                "label": "",
+                "value": "",
+                "href": "https://t.me/yaazzdd"
+              },
+              {
+                "label": "",
+                "value": "",
+                "href": "mailto:amzzdd@mail.ru"
+              }
+            ]
+          }
+        ]
+      },
+      "methodsLink": ""
+    }
+  },
+  "cases": {
+    "grab": {
+      "eyebrow": "",
+      "title": "",
+      "meta": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ],
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "stats": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "",
+          "label": ""
+        }
+      ],
+      "sections": [
+        {
+          "id": "overview",
+          "number": "01.",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "ol",
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "id": "research",
+          "number": "02.",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "ol",
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "id": "solution",
+          "number": "03.",
+          "title": "",
+          "blocks": [
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/grab/inspire-1.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/inspire-2.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/inspire-3.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/inspire-4.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/inspire-5.webp",
+                  "alt": "",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/grab/rewrite-1.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/rewrite-2.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/rewrite-3.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/rewrite-4.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/rewrite-5.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/rewrite-6.webp",
+                  "alt": "",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "result",
+              "value": "",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/grab/topics-1.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/topics-2.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/topics-3.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/topics-4.webp",
+                  "alt": "",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/grab/insight-restaurant.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "t": "result",
+              "value": "",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/grab/filters-occasions.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "t": "result",
+              "value": "",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/grab/passport-1.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/passport-2.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/passport-3.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/passport-4.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/grab/passport-5.webp",
+                  "alt": "",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "t": "result",
+              "value": "",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "id": "iterations",
+          "number": "04.",
+          "title": "",
+          "blocks": [
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "ol",
+              "items": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/grab/public-notice.webp",
+                  "alt": ""
+                },
+                {
+                  "src": "assets/images/grab/post-success.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "id": "teamwork",
+          "number": "05.",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "ol",
+              "items": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "id": "impact",
+          "number": "06.",
+          "title": "",
+          "blocks": [
+            {
+              "t": "stats",
+              "items": [
+                {
+                  "value": "",
+                  "label": ""
+                },
+                {
+                  "value": "",
+                  "label": ""
+                },
+                {
+                  "value": "",
+                  "label": ""
+                },
+                {
+                  "value": "",
+                  "label": ""
+                },
+                {
+                  "value": "",
+                  "label": ""
+                },
+                {
+                  "value": "",
+                  "label": ""
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "next": {
+        "label": "",
+        "title": "",
+        "cta": "",
+        "href": "cases/onetouch.html"
+      },
+      "lead": ""
+    },
+    "onetouch": {
+      "eyebrow": "",
+      "title": "",
+      "meta": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ],
+      "tags": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "stats": [
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "",
+          "label": ""
+        },
+        {
+          "value": "",
+          "label": ""
+        }
+      ],
+      "sections": [
+        {
+          "id": "overview",
+          "number": "01.",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "ol",
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                ""
+              ]
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "id": "research",
+          "number": "02.",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "ol",
+              "items": [
+                "",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "id": "solution",
+          "number": "03.",
+          "title": "",
+          "blocks": [
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "result",
+              "value": "",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/onetouch/process-1-mfc.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/onetouch/process-2-documents.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/onetouch/process-3-requests.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/onetouch/process-4-detail.webp",
+                  "alt": "",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "t": "result",
+              "value": "",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "result",
+              "value": "",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/onetouch/theme-61-login.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/onetouch/theme-66-calendar.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/onetouch/theme-65-pass.webp",
+                  "alt": "",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "id": "impact",
+          "number": "04.",
+          "title": "",
+          "blocks": [
+            {
+              "t": "stats",
+              "items": [
+                {
+                  "value": "",
+                  "label": ""
+                },
+                {
+                  "value": "",
+                  "label": ""
+                },
+                {
+                  "value": "",
+                  "label": ""
+                },
+                {
+                  "value": "",
+                  "label": ""
+                },
+                {
+                  "value": "",
+                  "label": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "next": {
+        "label": "",
+        "title": "",
+        "cta": "",
+        "href": "works/almasu.html"
+      },
+      "lead": ""
+    },
+    "almasu": {
+      "eyebrow": "",
+      "title": "",
+      "lead": "",
+      "meta": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ],
+      "tags": [
+        "",
+        "",
+        ""
+      ],
+      "sections": [
+        {
+          "id": "overview",
+          "number": "01",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "id": "tasks",
+          "number": "02",
+          "title": "",
+          "blocks": [
+            {
+              "t": "ul",
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "id": "site",
+          "number": "03",
+          "title": "",
+          "blocks": [
+            {
+              "t": "video",
+              "src": "assets/video/almasu/hero.mp4",
+              "poster": "assets/video/almasu/hero.webp",
+              "label": "",
+              "loop": true
+            },
+            {
+              "t": "video",
+              "src": "assets/video/almasu/exchange.mp4",
+              "poster": "assets/video/almasu/exchange.webp",
+              "label": "",
+              "controls": true
+            },
+            {
+              "t": "video",
+              "src": "assets/video/almasu/cash.mp4",
+              "poster": "assets/video/almasu/cash.webp",
+              "label": "",
+              "loop": true
+            },
+            {
+              "t": "video",
+              "src": "assets/video/almasu/steps.mp4",
+              "poster": "assets/video/almasu/steps.webp",
+              "label": "",
+              "loop": true
+            },
+            {
+              "t": "video",
+              "src": "assets/video/almasu/why.mp4",
+              "poster": "assets/video/almasu/why.webp",
+              "label": "",
+              "loop": true
+            }
+          ]
+        }
+      ],
+      "next": {
+        "label": "",
+        "title": "",
+        "cta": "",
+        "href": "works/concept-tutor.html"
+      }
+    },
+    "yiayia": {
+      "eyebrow": "",
+      "title": "",
+      "lead": "",
+      "meta": [
+        {
+          "label": "",
+          "value": ""
+        }
+      ],
+      "tags": [
+        "",
+        "",
+        ""
+      ],
+      "sections": [
+        {
+          "id": "materials",
+          "number": "01",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/yiayia/image107-logo.webp",
+                  "alt": "",
+                  "bg": "dark"
+                },
+                {
+                  "src": "assets/images/yiayia/wide-interior-1.webp",
+                  "alt": ""
+                },
+                {
+                  "src": "assets/images/yiayia/material-latte-art.webp",
+                  "alt": ""
+                },
+                {
+                  "src": "assets/images/yiayia/material-coffee-bags.webp",
+                  "alt": ""
+                },
+                {
+                  "src": "assets/images/yiayia/concept-cups-tall.webp",
+                  "alt": ""
+                },
+                {
+                  "src": "assets/images/yiayia/wide-menu.webp",
+                  "alt": ""
+                },
+                {
+                  "src": "assets/images/yiayia/wide-interior-2.webp",
+                  "alt": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "next": {
+        "label": "",
+        "title": "",
+        "cta": "",
+        "href": "works/concept-tutor.html"
+      }
+    },
+    "tutor": {
+      "eyebrow": "",
+      "title": "",
+      "lead": "",
+      "meta": [
+        {
+          "label": "",
+          "value": "",
+          "href": "https://spaffy.ru/",
+          "logo": "assets/images/concepts/tutor/spaffy-logo.webp"
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ],
+      "tags": [
+        "",
+        "",
+        ""
+      ],
+      "sections": [
+        {
+          "id": "task",
+          "number": "01",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "id": "problem",
+          "number": "02",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "id": "audit",
+          "number": "03",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "cards",
+              "items": [
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "rows": [
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ]
+                  ]
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "rows": [
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ]
+                  ]
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "rows": [
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ]
+                  ]
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "rows": [
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ]
+                  ]
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "rows": [
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ]
+                  ]
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "rows": [
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ]
+                  ]
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "rows": [
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "process",
+          "number": "04",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "cards",
+              "items": [
+                {
+                  "title": "",
+                  "text": ""
+                },
+                {
+                  "title": "",
+                  "text": ""
+                },
+                {
+                  "title": "",
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "concept",
+          "number": "05",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/concepts/tutor/v2-desktop-wide.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/tutor/v2-desktop.webp",
+                  "alt": "",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/concepts/tutor/v2-tablet.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/tutor/v2-tablet-ring.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/tutor/v2-mobile.webp",
+                  "alt": "",
+                  "caption": ""
+                }
+              ],
+              "layout": "tall"
+            }
+          ]
+        },
+        {
+          "id": "next-steps",
+          "number": "06",
+          "title": "",
+          "blocks": [
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "next": {
+        "label": "",
+        "title": "",
+        "cta": "",
+        "href": "works/concept-landing.html"
+      }
+    },
+    "landing": {
+      "eyebrow": "",
+      "title": "",
+      "lead": "",
+      "meta": [
+        {
+          "label": "",
+          "value": ""
+        }
+      ],
+      "tags": [
+        "",
+        ""
+      ],
+      "sections": [
+        {
+          "id": "task",
+          "number": "01",
+          "title": "",
+          "blocks": [
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "id": "logic",
+          "number": "02",
+          "title": "",
+          "blocks": [
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "cards",
+              "items": [
+                {
+                  "title": "",
+                  "text": ""
+                },
+                {
+                  "title": "",
+                  "text": ""
+                },
+                {
+                  "title": "",
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "projects",
+          "number": "03",
+          "title": "",
+          "blocks": [
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/concepts/landing/v2-projects.webp",
+                  "alt": ""
+                }
+              ],
+              "size": "m"
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "id": "trust",
+          "number": "04",
+          "title": "",
+          "blocks": [
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/concepts/landing/v2-trust.webp",
+                  "alt": ""
+                }
+              ],
+              "size": "m"
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "id": "request",
+          "number": "05",
+          "title": "",
+          "blocks": [
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/concepts/landing/v2-request.webp",
+                  "alt": ""
+                }
+              ],
+              "size": "m"
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mobile",
+          "number": "06",
+          "title": "",
+          "blocks": [
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/concepts/landing/v2-mobile-projects.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/landing/v2-mobile-trust.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/landing/v2-mobile-request.webp",
+                  "alt": "",
+                  "caption": ""
+                }
+              ],
+              "layout": "tall"
+            },
+            {
+              "t": "p",
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "next": {
+        "label": "",
+        "title": "",
+        "cta": "",
+        "href": "works/concept-scada.html"
+      }
+    },
+    "scada": {
+      "eyebrow": "",
+      "title": "",
+      "lead": "",
+      "meta": [
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ],
+      "tags": [
+        "",
+        "",
+        ""
+      ],
+      "sections": [
+        {
+          "id": "task",
+          "number": "01",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "cards",
+              "items": [
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                }
+              ],
+              "layout": "grid-2"
+            },
+            {
+              "t": "p",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "id": "operator",
+          "number": "02",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "cards",
+              "items": [
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "coverage",
+          "number": "03",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "cards",
+              "items": [
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "decisions",
+          "number": "04",
+          "title": "",
+          "blocks": [
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/concepts/scada/empty-state.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "cards",
+              "items": [
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/concepts/scada/flow-1-open-dialog.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/scada/flow-2-tree.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/scada/flow-3-list-order.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/scada/flow-4-list-name.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/scada/flow-5-twenty-tabs.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/scada/flow-6-filter.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/scada/flow-7-filter-middle.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/scada/flow-8-not-found.webp",
+                  "alt": "",
+                  "caption": ""
+                },
+                {
+                  "src": "assets/images/concepts/scada/flow-9-tab-menu.webp",
+                  "alt": "",
+                  "caption": ""
+                }
+              ]
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/concepts/scada/all-closed.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "id": "components",
+          "number": "05",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "figs",
+              "items": [
+                {
+                  "src": "assets/images/concepts/scada/components.webp",
+                  "alt": ""
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "id": "accessibility",
+          "number": "06",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "cards",
+              "items": [
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "color": "#1A1C24"
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "color": "#4B5563"
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "color": "#6B7280"
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "color": "#0570B8"
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "color": "#045A94"
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "color": "#1A8FD0"
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "color": "#5CC8FF"
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "color": "#D93333"
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "cards",
+              "items": [
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "rows": [
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ]
+                  ]
+                },
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": "",
+                  "rows": [
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ],
+                    [
+                      "",
+                      ""
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "ul",
+              "items": [
+                "",
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "id": "growth",
+          "number": "07",
+          "title": "",
+          "blocks": [
+            {
+              "t": "p",
+              "text": ""
+            },
+            {
+              "t": "cards",
+              "items": [
+                {
+                  "title": "",
+                  "text": "",
+                  "badge": ""
+                },
+                {
+                  "title": "",
+                  "text": ""
+                },
+                {
+                  "title": "",
+                  "text": ""
+                },
+                {
+                  "title": "",
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "next-steps",
+          "number": "08",
+          "title": "",
+          "blocks": [
+            {
+              "t": "h3",
+              "text": ""
+            },
+            {
+              "t": "p",
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "next": {
+        "label": "",
+        "title": "",
+        "cta": "",
+        "href": "cases/grab.html"
+      }
+    }
+  }
+}
